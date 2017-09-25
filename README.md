@@ -1,4 +1,3 @@
 # LIS_PA_Hurricane
-
-This file is used for testing.
+This program is used to test a Data set corresponding to various Hurricanes recorded and reported over the past couple of decades.
 
